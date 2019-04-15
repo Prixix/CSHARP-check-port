@@ -12,8 +12,6 @@ namespace Check_Port
 
         public static bool CheckOnlineState(String hostname, int port)
         {
-            bool online;
-
             using (TcpClient tcpClient = new TcpClient())
             {
                 try
