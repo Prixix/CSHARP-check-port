@@ -1,0 +1,7 @@
+C:\Users\Paul\source\repos\Check Port\bin\Debug\Check Port.exe.config
+C:\Users\Paul\source\repos\Check Port\bin\Debug\Check Port.exe
+C:\Users\Paul\source\repos\Check Port\bin\Debug\Check Port.pdb
+C:\Users\Paul\source\repos\Check Port\obj\Debug\Check Port.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Check Port\obj\Debug\Check Port.exe
+C:\Users\Paul\source\repos\Check Port\obj\Debug\Check Port.pdb
+C:\Users\Paul\source\repos\Check Port\obj\Debug\Check Port.csprojAssemblyReference.cache
